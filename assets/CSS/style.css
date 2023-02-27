@@ -1,0 +1,14 @@
+body{
+    margin: 15px;
+}
+
+li{
+    display: inline;
+    margin: 40px;
+}
+
+nav, footer{
+    display: flex;
+    height: 50px;
+    background-color: rgba(243,53,53,255);
+}
