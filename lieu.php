@@ -44,7 +44,7 @@ $requete->closeCursor();
    <div class="container">
     <div class="col-6 ">
     <?php foreach ($tableau as $lieu):?>   
-      <div class="col-9">
+      <div class="col-9"><br>
       <div class="card" style="width: 18rem;"> 
 
        

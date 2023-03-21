@@ -44,7 +44,7 @@ $requete->closeCursor();
   
   <?php foreach ($tableau as $perso):?>   
     <div class=" row ">
-      <div class=" cols-3">
+      <div class=" cols-3"><br>
     <div class="card " style="width: 18rem;"> 
 
     <img class="card-img-top" src="<?= $perso->pic_perso?>" style="width: 18rem;">
